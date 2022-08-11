@@ -1,0 +1,20 @@
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\bin\Debug\ex3.exe.config
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\bin\Debug\ex3.exe
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\obj\Debug\ex3.Form1.resources
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\obj\Debug\ex3.Properties.Resources.resources
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\obj\Debug\ex3.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\obj\Debug\ex3.exe
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex3\ex3\obj\Debug\ex3.pdb
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\bin\Debug\ex3.exe.config
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\bin\Debug\ex3.exe
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\obj\Debug\ex3.Form1.resources
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\obj\Debug\ex3.Properties.Resources.resources
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\obj\Debug\ex3.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\obj\Debug\ex3.exe
+C:\Users\skyri\Desktop\lista1\(lista 1) ex3\ex3\obj\Debug\ex3.pdb

@@ -1,0 +1,20 @@
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\bin\Debug\(lista1) ex4.exe.config
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\bin\Debug\(lista1) ex4.exe
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\bin\Debug\(lista1) ex4.pdb
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\obj\Debug\_lista1__ex4.Form1.resources
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\obj\Debug\_lista1__ex4.Properties.Resources.resources
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.exe
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.pdb
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\bin\Debug\(lista1) ex4.exe.config
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\bin\Debug\(lista1) ex4.exe
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\bin\Debug\(lista1) ex4.pdb
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\obj\Debug\_lista1__ex4.Form1.resources
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\obj\Debug\_lista1__ex4.Properties.Resources.resources
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.exe
+C:\Users\skyri\Desktop\lista1\(lista 1) ex4\(lista1) ex4\obj\Debug\(lista1) ex4.pdb

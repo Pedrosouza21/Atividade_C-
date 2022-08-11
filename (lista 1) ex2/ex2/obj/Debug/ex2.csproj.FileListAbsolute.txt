@@ -1,0 +1,20 @@
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\bin\Debug\ex2.exe
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\bin\Debug\ex2.pdb
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\obj\Debug\ex2.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\obj\Debug\ex2.Form1.resources
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\obj\Debug\ex2.Properties.Resources.resources
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\obj\Debug\ex2.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\obj\Debug\ex2.exe
+C:\Users\skyri\Desktop\lista DS\(lista 1) ex2\ex2\obj\Debug\ex2.pdb
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\bin\Debug\ex2.exe
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\bin\Debug\ex2.pdb
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\obj\Debug\ex2.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\obj\Debug\ex2.Form1.resources
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\obj\Debug\ex2.Properties.Resources.resources
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\obj\Debug\ex2.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\obj\Debug\ex2.exe
+C:\Users\skyri\Desktop\lista1\(lista 1) ex2\ex2\obj\Debug\ex2.pdb

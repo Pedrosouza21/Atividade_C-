@@ -1,0 +1,10 @@
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\bin\Debug\(Lista 1) ex1.exe.config
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\bin\Debug\(Lista 1) ex1.exe
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\bin\Debug\(Lista 1) ex1.pdb
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\obj\Debug\(Lista 1) ex1.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\obj\Debug\_Lista_1__ex1.Form1.resources
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\obj\Debug\_Lista_1__ex1.Properties.Resources.resources
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\obj\Debug\(Lista 1) ex1.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\obj\Debug\(Lista 1) ex1.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\obj\Debug\(Lista 1) ex1.exe
+C:\Users\skyri\Desktop\lista DS\(Lista 1) ex1\obj\Debug\(Lista 1) ex1.pdb
